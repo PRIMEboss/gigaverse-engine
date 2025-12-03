@@ -1,5 +1,5 @@
 {
-  "name": "@slkzgm/gigaverse-engine",
+  "name": "@primeboss/gigaverse-engine",
   "version": "0.0.6",
   "description": "Local simulator and algorithms for the Gigaverse RPS game",
   "main": "dist/index.js",
